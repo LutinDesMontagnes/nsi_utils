@@ -7,8 +7,8 @@ setup(
   description = 'Official package of the NSI corporation',   # Give a short description about your library
   author = 'LutinDesMontagnes',                   # Type in your name
   author_email = 'timothe.ioos@deys.me',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/LutinDesMontagnes',    # I explain this later on
+  url = 'https://github.com/user/LutinDesMontagnes',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/LutinDesMontagnes/nsi_utils/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['NSI', 'MECHANTE', 'ST GE'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
